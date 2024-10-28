@@ -1,2 +1,2 @@
 # Nyx
-Nyx is a custom-built monochrome camera designed for astrophotography, featuring a high-performance CCD sensor and a 7-position automated filter wheel. It is optimized for deep-sky imaging, offering precise control over light capture and filtering for professional-grade results.
+Nyx is a modified Lumenera LW11059C camera designed for astrophotography, featuring a custom-built 7-position automated filter wheel. This setup optimizes the camera for deep-sky imaging, providing precise control over light capture and filtering to achieve professional-grade results.
